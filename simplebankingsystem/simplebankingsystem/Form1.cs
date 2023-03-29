@@ -23,8 +23,7 @@ namespace simplebankingsystem
             {
                 Form2 f = new Form2();
                 f.Show();
-                login l = new login();
-                l.Close();
+                
           
             }
         }
