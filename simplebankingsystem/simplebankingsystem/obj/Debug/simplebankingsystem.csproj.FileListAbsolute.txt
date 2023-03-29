@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\bin\Debug\simplebankingsystem.exe.config
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\bin\Debug\simplebankingsystem.exe
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\bin\Debug\simplebankingsystem.pdb
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\obj\Debug\simplebankingsystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\obj\Debug\simplebankingsystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\obj\Debug\simplebankingsystem.login.resources
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\obj\Debug\simplebankingsystem.Properties.Resources.resources
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\obj\Debug\simplebankingsystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\obj\Debug\simplebankingsystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\obj\Debug\simplebankingsystem.exe
+C:\Users\user\Desktop\simple project demo\simplebankingsystem\simplebankingsystem\simplebankingsystem\obj\Debug\simplebankingsystem.pdb
